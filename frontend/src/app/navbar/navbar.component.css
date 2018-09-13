@@ -1,0 +1,16 @@
+.navbar .navbar-nav {
+    display: inline-block;
+    float: none;
+    font-size: 1.5em;
+    padding-top: 18px;
+    padding-bottom: 18px;
+}
+
+.navbar-nav>li>a {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+.navbar .navbar-collapse {
+    text-align: center;
+}

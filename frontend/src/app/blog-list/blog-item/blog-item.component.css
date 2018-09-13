@@ -1,0 +1,23 @@
+.thumbnail {
+    padding: 0px;
+    margin-top: 25px;
+    opacity: 0.8;
+  }
+  
+.btn-primary{
+    background-color: #37708a;
+    width: 180px;
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.description {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.caption {
+    margin: 15px 15px;
+}
+

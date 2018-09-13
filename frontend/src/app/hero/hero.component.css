@@ -1,0 +1,11 @@
+#hero {
+  background: url("../../assets/logo_transparent.png") no-repeat center center fixed;
+  position:absolute;
+  width:592px; /*image width */
+  height:552px; /*image height */
+  left:50%; 
+  top:50%;
+  margin-left:-296px; /*image width/2 */
+  margin-top:-266px; /*image height/2 */
+  opacity: 0.5;
+}
